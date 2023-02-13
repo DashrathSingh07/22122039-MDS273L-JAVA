@@ -70,25 +70,25 @@ Enter your choice: 2
  ...The Students details is given below...
 
 *************** Student 1 Details ***************
--         Name: Dashrath
--         Register No.: 22122039
--         Email: ds@gmail.com
--         Class: MSDSA
--         Department: data science
+- Name: Dashrath
+- Register No.: 22122039
+- Email: ds@gmail.com
+- Class: MSDSA
+- Department: data science
 
 *************** Student 2 Details ***************
-         - Name: Yuvraj
-         - Register No.: 22122060
-         - Email: yuvi@gmail.com
-         - Class: MSDSA
-         - Department: data science
+- Name: Yuvraj
+- Register No.: 22122060
+- Email: yuvi@gmail.com
+- Class: MSDSA
+- Department: data science
 
 *************** Student 3 Details ***************
-         - Name: Lawrance
-         - Register No.: 22122160
-         - Email: law@gamil.com
-         - Class: MSDSB
-         - Department: data science
+- Name: Lawrance
+- Register No.: 22122160
+- Email: law@gamil.com
+- Class: MSDSB
+- Department: data science
 
  ********* WELCOME *********
 Your choices
@@ -100,11 +100,11 @@ Enter your choice: 3
 Search Name: lawrance
 
 *************** Student lawrance Details ***************
-         - Name: Lawrance
-         - Register No.: 22122160
-         - Email: law@gamil.com
-         - Class: MSDSB
-         - Department: data science
+- Name: Lawrance
+- Register No.: 22122160
+- Email: law@gamil.com
+- Class: MSDSB
+- Department: data science
 
  ********* WELCOME *********
 Your choices

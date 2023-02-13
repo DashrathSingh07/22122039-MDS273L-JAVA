@@ -23,6 +23,7 @@ Whenever you are entering the details of a student, you need to enter the value 
 - Since you are using functions, plan what should be the returning values and how to implement them.
 
 
+![flowchart](https://user-images.githubusercontent.com/118044162/218380837-73dcc8d9-f7df-4362-8ad3-b269b98fe9df.jpg)
 
 
 ------------------ OUTPUT ------------------

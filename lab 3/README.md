@@ -70,11 +70,11 @@ Enter your choice: 2
  ...The Students details is given below...
 
 *************** Student 1 Details ***************
-         - Name: Dashrath
-         - Register No.: 22122039
-         - Email: ds@gmail.com
-         - Class: MSDSA
-         - Department: data science
+-         Name: Dashrath
+-         Register No.: 22122039
+-         Email: ds@gmail.com
+-         Class: MSDSA
+-         Department: data science
 
 *************** Student 2 Details ***************
          - Name: Yuvraj

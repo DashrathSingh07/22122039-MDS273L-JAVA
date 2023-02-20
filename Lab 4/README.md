@@ -42,6 +42,7 @@ A/c Balance: 23500
 3. To print the transactions
 4. To print account summary
 5. Exit
+
 Enter your choice: 1
 
 ---------------- Deposit Money ----------------
@@ -57,6 +58,7 @@ Enter your choice: 1
 3. To print the transactions
 4. To print account summary
 5. Exit
+
 Enter your choice: 2
 
 ---------------- Withdraw Money ----------------
@@ -72,6 +74,7 @@ Enter your choice: 2
 3. To print the transactions
 4. To print account summary
 5. Exit
+
 Enter your choice: 1
 
 ---------------- Deposit Money ----------------
@@ -87,6 +90,7 @@ Enter your choice: 1
 3. To print the transactions
 4. To print account summary
 5. Exit
+
 Enter your choice: 2
 
 ---------------- Withdraw Money ----------------
@@ -102,6 +106,8 @@ Enter your choice: 2
 3. To print the transactions
 4. To print account summary
 5. Exit
+
+
 Enter your choice: 3
 
 ---------------- Transaction ----------------
@@ -120,6 +126,8 @@ Transaction     type:           Balance:        Available Balance:
 3. To print the transactions
 4. To print account summary
 5. Exit
+
+
 Enter your choice: 4
 
 ---------------- Account Summary ----------------
@@ -134,4 +142,6 @@ Enter your choice: 4
 3. To print the transactions
 4. To print account summary
 5. Exit
+
+
 Enter your choice: 5

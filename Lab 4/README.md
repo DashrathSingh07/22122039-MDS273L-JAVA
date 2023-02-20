@@ -26,7 +26,7 @@ Write a JAVA Menu driven program that does the following:
 
 --------------------------------------- OUTPUT ---------------------------------------
 
-
+![Alt text](c:/Users/dashr/Downloads/lab4.jpg)
 --------------- Account Details ---------------
 
 A/c Number: 22122039

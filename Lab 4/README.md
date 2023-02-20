@@ -105,11 +105,17 @@ Enter your choice: 2
 Enter your choice: 3
 
 ---------------- Transaction ----------------
+
 Transaction     type:           Balance:        Available Balance:
+
         1       Deposit         3650    cr      27150
+        
         2       Withdraw        3000    dr      24150
+        
         3       Deposit         6500    cr      30650
+        
         4       Withdraw        20000   dr      10650
+        
 --------------- Your choices ---------------
 
 1. To deposit money

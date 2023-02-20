@@ -23,6 +23,7 @@ Write a JAVA Menu driven program that does the following:
     - To withdraw money
     - To print the transactions
     - To print account summary
+![lab4](https://user-images.githubusercontent.com/118044162/220075463-239a77d0-c66e-4608-bf5d-02aab3dc1a0f.jpg)
 
 --------------------------------------- OUTPUT ---------------------------------------
 

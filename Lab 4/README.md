@@ -28,9 +28,9 @@ Write a JAVA Menu driven program that does the following:
 
 
 --------------- Account Details ---------------
-A/c Number: 22122039
-A/c Holder Name: Dashrath Singh
-A/c Balance: 23500
+    A/c Number: 22122039
+    A/c Holder Name: Dashrath Singh
+    A/c Balance: 23500
 
 --------------- Your choices ---------------
 

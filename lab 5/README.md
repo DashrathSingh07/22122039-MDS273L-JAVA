@@ -5,7 +5,7 @@ Question
 
 Below is an encryption/decryption standard in which the letters in the message will be replaced with the letters in the cypher row
 
-![lab5 (1)](https://user-images.githubusercontent.com/118044162/223026675-30fb6a01-84b8-476a-b14b-ba13ac3c0a92.jpg)
+![image](https://user-images.githubusercontent.com/118044162/223026826-d10b6260-b19e-46a2-8320-669cefed1dc3.png)
 
 Plaintext:  THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG
 
@@ -21,7 +21,8 @@ Draw a flow chart for your program and write the pseudocode before starting the 
 
 ------------------------- FLOWCHART -------------------------
 
-![lab5](https://user-images.githubusercontent.com/118044162/223024161-adb5f498-1714-4c45-8a61-694bf554aeb9.jpg)
+![lab5 (1)](https://user-images.githubusercontent.com/118044162/223026774-1654c031-64cb-4a9d-acfe-6f081c9c0daa.jpg)
+
 
 
 ------------------------- OUTPUT -------------------------

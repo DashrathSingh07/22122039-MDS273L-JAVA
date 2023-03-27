@@ -1,0 +1,6 @@
+Reg No : 22122034
+Name : Ashish 
+Email: Ashish@gmail.com
+Phone : 985741201
+Class : MScDs A
+Department : Data Science

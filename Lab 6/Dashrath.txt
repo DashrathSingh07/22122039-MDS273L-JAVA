@@ -1,0 +1,6 @@
+Reg No : 22122039
+Name : Dashrath
+Email: Dashrath@gmail.com
+Phone : 7698447392
+Class : MScDS A
+Department : data science

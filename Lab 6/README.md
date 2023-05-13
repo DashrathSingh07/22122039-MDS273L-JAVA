@@ -32,6 +32,8 @@ Create a README.md file for documentation.
 Add proper comments in the code.
 Create a flowchart using the online tool and update the README.md file.
 Update the changes to the GitHub website and submit the URL.
+### flowchart 
+![image](https://github.com/DashrathSingh07/22122039-MDS273L-JAVA/assets/118044162/48367310-5890-4b11-8f17-f5561a5627db)
 
 
 ------------------- OUTPUT ---------------------------

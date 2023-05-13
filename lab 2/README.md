@@ -24,6 +24,10 @@ Removing a name should not create empty space inside the array!
 
 Format your results properly!!
 
+### flowchart 
+![image](https://github.com/DashrathSingh07/22122039-MDS273L-JAVA/assets/118044162/ddad8915-1826-453c-9394-ae3c703e68a8)
+
+
 ------------------------------OUTPUT------------------------------
 
 
